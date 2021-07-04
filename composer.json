@@ -1,0 +1,14 @@
+{
+    "name": "gustavo/project1",
+    "description": "Proyecto de prueba de subir paquetes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gustavovaler",
+            "email": "gustavodevaler@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
