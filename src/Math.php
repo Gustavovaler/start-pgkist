@@ -1,6 +1,6 @@
 <?php
 
-namespace src;
+namespace Gustavovaler\Project1;
 
 class Math {
     public function add($n1, $n2){
